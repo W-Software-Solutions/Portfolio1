@@ -9,7 +9,7 @@ export const PROJECTS = [
     title: "Movieplex",
     image: p1,
     description:
-      "amazing website UI and comfortable UX with abilty to choose what u want to eat and add it in shopping cart and order functionality",
+      "An intuitive platform to search movies, watch trailers, view ratings, cast, and access complete movie details.",
     github: "https://github.com/Wasif-Ansari/Movieplex",
     live: "https://w-movieplex.vercel.app/",
   },
@@ -17,7 +17,7 @@ export const PROJECTS = [
     title: "URL Shortner",
     image: p2,
     description:
-      " an application for manging tasks and projects with fully crud experience",
+      "Convert lengthy URLs into clean, concise links instantly. Customize, share, and track each link with ease for a seamless experience.",
     github:
       "https://github.com/Wasif-Ansari/URL-Shortner-MERN",
     live: "https://w-url-shortner.netlify.app/",
@@ -26,7 +26,7 @@ export const PROJECTS = [
     title: "Password Generator",
     image: p3,
     description:
-      " mini e-commerce website with features like product listing and shopping cart ",
+      "Create strong, unique passwords with a single click. Customize length and complexity for secure, hassle-free protection.",
     github:
       "https://github.com/Wasif-Ansari/password_generator.github.io",
     live: "https://wasif-ansari.github.io/password_generator.github.io/",
@@ -35,7 +35,7 @@ export const PROJECTS = [
     title: "Personal Portfolio",
     image: p5,
     description:
-      " a creative website that asks you to your location and provide to you the nearest good place to go",
+      "Explore my projects, skills, and professional journey through an elegantly designed personal portfolio. A showcase of creativity, experience, and passion.",
     github:
       "https://github.com/Wasif-Ansari/Wasif-Ansari.github.io",
     live: "https://wasif-ansari.github.io/",
@@ -44,7 +44,7 @@ export const PROJECTS = [
     title: "W Software Solutions",
     image: p4,
     description:
-      "A quiz application that can test your experiance in react with a timer for each question and fully result details at the end",
+      "A cutting-edge, customizable template that elegantly showcases your software solutions, services, and achievements, designed to captivate clients and elevate your brand.",
     github: "https://github.com/Wasif-Ansari/W-Software-Solutions",
     live: "https://w-softwares.vercel.app/",
   },
